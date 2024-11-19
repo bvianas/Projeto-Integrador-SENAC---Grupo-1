@@ -1,48 +1,35 @@
-# Desenvolvimento de chatbot para consulta de documentos jurídicos
 
 
-## Chatbot para carregar os documentos indicados e montar uma base em bucket S3. Esta base deve constituir o RAG (Retrieval Augmented Generation) a ser utilizado com o Bedrock. O mecanismo do chatbot deve ser provido pelo LangChain com Chroma e a interface pelo Telegram. O Cloudwatch deve ser utilizado para gravação de log dos dados processados.
+# Desenvolvimento de protótipo de interface de sistema
+
+
+## Descrição do Projeto
+Este projeto contém os protótipos de interface para um sistema de cadastro universitário, desenvolvido com base nos diagramas de caso de uso da fase inicial do projeto.
+As jornadas de usuários incluem o cadastro de **Pessoa Física**, **Pessoa Jurídica**, **Professores**, **Fornecedores** e **Alunos**. Todos os protótipos estão documentados e organizados no formato **Markdown**, conforme os requisitos do projeto.
+
 
 ---
 
-## 🔍 Tarefas 
+## 🔍 **Cadastro**
 
-| *Tarefa* | *Status* |
-|-----------------|------------|
-| 🌐 Criar um chatbot com LangChain fazendo a carga a partir de um S3 contendo dos documentos disponibilizados na pasta dataset |✔️|
-| 🛠️ Gerar os embeddings com Bedrock e indexar com Chroma |✔️|
-| 💾 Utilizar o Bedrock como mecanismo de consulta de dados (retrieval) |✔️|
-| 🚀 Expor o chatbot no Telegram |✔️|
-
----
-
-
-### 📦 Funcionalidades
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
+| **Cadastro**         | **Status** |
+|----------------------|------------|
+| 🌐 **Pessoa Física**  | ✔️ **Concluído**   |
+| 🏢 **Pessoa Jurídica**| ✔️ **Concluído**   |
+| 👨‍🏫 **Professores**  | ✔️ **Concluído**   |
+| 🧑‍🎓 **Alunos**       | ✔️ **Concluído**   |
+| 🛒 **Fornecedores**   | ✔️ **Concluído**   |
 
 
 
 ---
 
-### 🔧 Arquitetura Básica
+
+---
+
+### 📝 Telas de Cadastro
 
 ![alt text](image-1.png)
-
-
-
-
----
-### 🚀 Como Utilizar 
-
-1. Clonar o Repositório
-
-bash
-💻 git clone <URL_DO_REPOSITÓRIO>
-📂 cd <NOME_DO_PROJETO>
-
 
 
 ---
