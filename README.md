@@ -1,6 +1,6 @@
 
 
-# Desenvolvimento de protótipo de interface de sistema
+# Protótipo de Sistema de Cadastro Universitário
 
 
 ## Descrição do Projeto
