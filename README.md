@@ -10,7 +10,9 @@ As jornadas de usuários incluem o cadastro de **Pessoa Física**, **Pessoa Jur�
 
 ---
 
+
 ## 🔍 **Cadastro**
+
 
 | **Cadastro**         | **Status** |
 |----------------------|------------|
@@ -21,11 +23,8 @@ As jornadas de usuários incluem o cadastro de **Pessoa Física**, **Pessoa Jur�
 | 🛒 **Fornecedores**   | ✔️ **Concluído**   |
 
 
-
 ---
 
-
----
 
 ### 📝 Telas de Cadastro
 
@@ -59,17 +58,19 @@ As jornadas de usuários incluem o cadastro de **Pessoa Física**, **Pessoa Jur�
 ---
 
 
-## 🔴 Dificuldades
-
-
----
-
 ## Referências 🛠️
 
 
+1. OLIVEIRA, Henrique Pontes Gonçalves de. Ferramentas de desenvolvimento – diagrama de caso de uso. In: OLIVEIRA, Henrique Pontes Gonçalves de. Análise de sistemas. São Paulo: Editora Senac São Paulo, 2019. (Série Universitária). p. 145-148
+
+2. O que é UML e diagramas de caso de uso: introdução prática à UML. DEVMEDIA, 2012. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em: 22 set. 2024.
+
+
 ---
 
+
 ## Desenvolvido por: ✍️
+
  
 <table>
   <tbody>
