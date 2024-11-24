@@ -1,7 +1,4 @@
-
-
-# Protótipo de Sistema de Cadastro Universitário
-
+![banner](images/banner.png)
 
 ## Descrição do Projeto
 Este projeto contém os protótipos de interface para um sistema de cadastro universitário, desenvolvido com base nos diagramas de caso de uso da fase inicial do projeto.
