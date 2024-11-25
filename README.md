@@ -23,7 +23,7 @@ As jornadas de usuários incluem o cadastro de **Pessoa Física**, **Pessoa Jur�
 ---
 
 
-### 📝 Telas de Cadastro
+### Telas de Cadastro 📝
 
 ![1-primeiro-acesso](https://github.com/user-attachments/assets/bd7316d8-7f1e-4ac4-a85d-a96bd1e43a58)
 
@@ -51,6 +51,20 @@ As jornadas de usuários incluem o cadastro de **Pessoa Física**, **Pessoa Jur�
 
 ![13-fornecedor](https://github.com/user-attachments/assets/f2e54b5d-d7e2-4fb4-aa90-418ef5612d7a)
 
+
+---
+
+
+## Diagramas 🖇️
+
+### Diagrama de Caso de Uso 👤
+
+![14-diagrama de caso de uso](images/diagramaCasoDeUso.png)
+
+
+### Diagrama de Classe ⚙️
+
+![15-diagrama de classe](images/diagramaDeClasse.png)
 
 ---
 
